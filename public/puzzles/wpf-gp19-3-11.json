@@ -1,0 +1,22 @@
+{"version": 1, "name":"WPF Sudoku Grand Prix 2019 - Runde 3 - 11","description":"Different Around Sudoku (33 points) - Apply classic sudoku rules. The small number in a two-cell cage indicates how many different digits surround the cage. Up to 10 cells touching the cage by a side or by a corner should be inspected.","values":[[9,0,0,0,6,0,0,0,4],[0,4,0,3,0,9,0,2,0],[0,0,0,0,2,0,0,0,0],[7,0,4,0,0,0,1,0,5],[0,2,0,0,0,0,0,7,0],[1,0,8,0,0,0,6,0,2],[0,0,0,0,5,0,0,0,0],[0,8,0,7,0,6,0,3,0],[4,0,0,0,3,0,0,0,7]],"hintsCorner":[[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]]],"hintsMiddle":[[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]]],"readonly":[[true,false,false,false,true,false,false,false,true],[false,true,false,true,false,true,false,true,false],[false,false,false,false,true,false,false,false,false],[true,false,true,false,false,false,true,false,true],[false,true,false,false,false,false,false,true,false],[true,false,true,false,false,false,true,false,true],[false,false,false,false,true,false,false,false,false],[false,true,false,true,false,true,false,true,false],[true,false,false,false,true,false,false,false,true]],"colors":[[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]],"cages":[
+    ["","","","","","","","",""],
+    ["","","","","","","","",""],
+    ["","ltr;8","ltb;7","trb","","ltb;4","trb","ltr;9",""],
+    ["","lrb","","","","","","lrb",""],
+    ["","","","","","","","",""],
+    ["","ltr;7","","","","","","ltr;8",""],
+    ["","lrb","ltb;4","trb","","ltb;6","trb","lrb",""],
+    ["","","","","","","","",""],
+    ["","","","","","","","",""]
+    ],"solution":[
+        [9,1,2,8,6,7,3,5,4],
+        [5,4,7,3,1,9,8,2,6],
+        [8,6,3,5,2,4,7,1,9],
+        [7,3,4,6,9,2,1,8,5],
+        [6,2,9,1,8,5,4,7,3],
+        [1,5,8,4,7,3,6,9,2],
+        [3,7,6,9,5,1,2,4,8],
+        [2,8,5,7,4,6,9,3,1],
+        [4,9,1,2,3,8,5,6,7]
+
+        ],"overlay":""}

@@ -1,0 +1,16 @@
+{"version": 1, "name":"WPF Sudoku Grand Prix 2019 - Runde 4 - 12","description":"Consecutive Sudoku (92 points) - Apply classic sudoku rules. In all cases where two neighbouring cells contain consecutive digits, a black bar is placed between those cells.","values":[[0,0,2,9,0,8,6,0,0],[0,1,0,0,0,0,0,2,0],[0,4,0,0,0,0,0,5,0],[2,0,0,0,0,0,0,0,4],[6,0,0,0,0,0,0,0,8],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]],"hintsCorner":[[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]]],"hintsMiddle":[[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]]],"readonly":[[false,false,true,true,false,true,true,false,false],[false,true,false,false,false,false,false,true,false],[false,true,false,false,false,false,false,true,false],[true,false,false,false,false,false,false,false,true],[true,false,false,false,false,false,false,false,true],[false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false]],"colors":[
+    [0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]
+    ],"cages":[["","","","","","","","",""],["","","","","","","","",""],["","","","","","","","",""],["","","","","","","","",""],["","","","","","","","",""],["","","","","","","","",""],["","","","","","","","",""],["","","","","","","","",""],["","","","","","","","",""]],"solution":[
+        [7,5,2,9,3,8,6,4,1],
+        [3,1,6,4,7,5,8,2,9],
+        [9,4,8,2,6,1,3,5,7],
+        [2,9,1,6,8,3,5,7,4],
+        [6,3,7,5,2,4,9,1,8],
+        [4,8,5,1,9,7,2,6,3],
+        [8,2,4,7,5,9,1,3,6],
+        [5,7,9,3,1,6,4,8,2],
+        [1,6,3,8,4,2,7,9,5]
+
+    ],
+    "overlay":"PHN2ZyB3aWR0aD0iMTgxLjMzbW0iIGhlaWdodD0iMTgxLjMzbW0iIHZlcnNpb249IjEuMSIgdmlld0JveD0iMCAwIDE4MS4zMyAxODEuMzMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPgo8cmVjdCBpZD0icmVjdDIxMCIgeD0iMjQuNzczIiB5PSIxNTkuMDUiIHdpZHRoPSIxMi4wNDUiIGhlaWdodD0iMi44Nzk0IiBzdHJva2U9IiM4MDgwODAiIHN0cm9rZS1taXRlcmxpbWl0PSIwIiBzdHJva2Utb3BhY2l0eT0iLjMiIHN0cm9rZS13aWR0aD0iMS4wNTgzIiBzdHlsZT0icGFpbnQtb3JkZXI6bWFya2VycyBmaWxsIHN0cm9rZSIvPgo8dXNlIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE5LjgzNyAtMzkuOTczKSIgeGxpbms6aHJlZj0iI3JlY3QyMTAiLz4KPHVzZSB0cmFuc2Zvcm09InRyYW5zbGF0ZSg0MC4yNjQgLTc5Ljc5KSIgeGxpbms6aHJlZj0iI3JlY3QyMTAiLz4KPHVzZSB0cmFuc2Zvcm09InRyYW5zbGF0ZSg2MC4xMDcgLTEyMC4wMSkiIHhsaW5rOmhyZWY9IiNyZWN0MjEwIi8+Cjx1c2UgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoODAuMTQgLTc5LjYwMSkiIHhsaW5rOmhyZWY9IiNyZWN0MjEwIi8+Cjx1c2UgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoOTkuOTg0IC0zOS43NjMpIiB4bGluazpocmVmPSIjcmVjdDIxMCIvPgo8dXNlIHRyYW5zZm9ybT0idHJhbnNsYXRlKDExOS44MyAtLjAzNzM3KSIgeGxpbms6aHJlZj0iI3JlY3QyMTAiLz4KPC9zdmc+Cg=="
+}

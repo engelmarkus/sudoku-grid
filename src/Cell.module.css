@@ -1,0 +1,228 @@
+.cell {
+  font-size: 21pt;
+  border: 1px solid black;
+  /*height: 40px;
+  width: 40px;*/
+  height: 2em;
+  width: 2em;
+  max-width: 10vmin;
+  max-height: 10vmin;
+  position: relative;
+}
+
+[data-theme="dark"] .cell {
+    border-color: var(--secondary);
+    background-color: var(--gray-dark);
+}
+
+.bigNumber {
+  /*background-color:#50505050;*/
+  color: #4285F4;
+  font-size: 21pt;
+  width: 100%;
+  display: block;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  /*z-index: 1000;*/
+}
+
+.readonlyCell {
+    color: black;
+}
+
+[data-theme="dark"] .readonlyCell {
+    color: white;
+}
+
+.smallNumberUpperLeft {
+  font-size: 9pt;
+  margin-left: 5px;
+  margin-top: 2px;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  text-align: center;
+}
+
+[data-theme="dark"] .smallNumberUpperLeft {
+    color: white;
+}
+
+.smallNumberUpperRight {
+  font-size: 9pt;
+  margin-right: 5px;
+  margin-top: 2px;
+  display: block;
+  position: absolute;
+  top: 0%;
+  right: 0%;
+  text-align: center;
+}
+
+[data-theme="dark"] .smallNumberUpperRight {
+    color: white;
+}
+
+.smallNumberLowerLeft {
+  font-size: 9pt;
+  margin-left: 5px;
+  margin-bottom: 2px;
+  display: block;
+  position: absolute;
+  left: 0%;
+  bottom: 0%;
+  text-align: center;
+}
+
+[data-theme="dark"] .smallNumberLowerLeft {
+    color: white;
+}
+
+.smallNumberLowerRight {
+  font-size: 9pt;
+  margin-right: 5px;
+  margin-bottom: 2px;
+  display: block;
+  position: absolute;
+  right: 0%;
+  bottom: 0%;
+  text-align: center;
+}
+
+[data-theme="dark"] .smallNumberLowerRight {
+    color: white;
+}
+
+.smallNumbersMiddle {
+  font-size: 9pt;
+  display: block;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  text-align: center;
+}
+
+[data-theme="dark"] .smallNumbersMiddle {
+    color: white;
+}
+
+/*.dashedAll {
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    position: relative;
+    top: 2px;
+    left: 2px;
+    width: 34px;
+    height: 34px;
+}*/
+
+.dashedAll {
+    border-color: black;
+    border-width: 1px;
+    border-style: dashed;
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    bottom: 2px;
+    right: 2px;
+}
+
+[data-theme="dark"] .dashedAll {
+    border-color: white;
+}
+
+.d2 {
+    border-color: black;
+    border-width: 2px !important;
+    border-style: dashed;
+    position: absolute;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+}
+
+[data-theme="dark"] .d2 {
+    border-color: white;
+}
+
+.bottom {
+    bottom: 1px;
+    border-bottom: dashed;
+}
+
+.top {
+    top: 1px;
+    border-top: dashed;
+}
+
+.left {
+    left: 1px;
+    border-left: dashed;
+}
+
+.right {
+    right: 1px;
+    border-right: dashed;
+}
+
+.dashedSum {
+    background-color: white;
+    color: black;
+    font-size: 7pt;
+    margin-left: 1px;
+    display: block;
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    text-align: center;
+}
+
+.cellSelected {
+    background-color: #dddddd !important;
+}
+
+.bgColor0 {
+    background-color: #FFFFFF !important;
+}
+
+[data-theme="dark"] .bgColor0 {
+    background-color: var(--gray-dark) !important;
+}
+
+.bgColor1 {
+    background-color: #EC88A0 !important;
+}
+
+.bgColor2 {
+    background-color: #F8DD9C !important;
+}
+
+.bgColor3 {
+    background-color: #47EEC2 !important;
+}
+
+.bgColor4 {
+    background-color: #43B9E0 !important;
+}
+
+.bgColor5 {
+    background-color: #F09C57 !important;
+}
+
+.bgColor6 {
+    background-color: #a87eec !important;
+}
+
+.bgColor7 {
+    background-color: #CEB5B7 !important;
+}

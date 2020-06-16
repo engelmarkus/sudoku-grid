@@ -1,0 +1,22 @@
+{"version": 1, "name":"WPF Sudoku Grand Prix 2019 - Runde 6 - 13","description":"Killer Sudoku (106 points) - Apply classic sudoku rules. The digits placed in each marked cage must sum to the total given in its top-left. Digits must not repeat in cages.","values":[[0,0,0,0,5,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[8,0,0,0,0,0,0,0,9],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,6,0,0,0,0]],"hintsCorner":[[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]]],"hintsMiddle":[[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]],[[],[],[],[],[],[],[],[],[]]],"readonly":[[false,false,false,false,true,false,false,false,false],[false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false],[true,false,false,false,false,false,false,false,true],[false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false],[false,false,false,false,false,false,false,false,false],[false,false,false,false,true,false,false,false,false]],"colors":[[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0]],"cages":[
+    ["lt;20","trb","ltb;14","trb","","ltb;10","trb","ltb;20","tr"],
+    ["lr","ltr;11","ltb;21","tb","tb","tb","trb","ltr;13","lr"],
+    ["lr","lrb","ltb;20","tr","ltr;12","lt;12","trb","lrb","lr"],
+    ["lrb","lt;27","trb","lrb","lrb","lrb","ltb;27","tr","lrb"],
+    ["","lr","ltb;9","trb","","ltb;10","trb","lr",""],
+    ["ltr;20","lb","trb","ltr;8","ltr;16","ltr;14","ltb","rb","ltr;19"],
+    ["lr","ltr;11","ltb","rb","lrb","lb","trb","ltr;13","lr"],
+    ["lr","lrb","ltb;23","tb","tb","tb","trb","lrb","lr"],
+    ["lb","trb","ltb;13","trb","","ltb;13","trb","ltb","rb"]
+    ],"solution":[
+        [9,2,6,8,5,7,3,1,4],
+        [5,4,1,6,3,2,9,7,8],
+        [3,7,8,9,4,1,2,6,5],
+        [1,6,4,3,8,9,7,5,2],
+        [8,5,7,2,1,4,6,3,9],
+        [2,9,3,5,7,6,4,8,1],
+        [6,8,2,1,9,3,5,4,7],
+        [4,3,5,7,2,8,1,9,6],
+        [7,1,9,4,6,5,8,2,3]
+
+        ],"overlay":""}

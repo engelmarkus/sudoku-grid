@@ -37,3 +37,13 @@
     transform: translateY(0px)
   }
 }
+
+[data-theme="dark"] .card-header {
+    background-color: var(--gray-dark);
+    color: white;
+}
+
+[data-theme="dark"] .list-group-item {
+    background-color: var(--gray);
+    color: white;
+}

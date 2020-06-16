@@ -1,8 +1,10 @@
 import { configureStore } from '@reduxjs/toolkit';
-import counterReducer from '../features/counter/counterSlice';
+import gridReducer from '../features/grid/gridSlice';
+import controlsReducer from '../features/controls/controlsSlice';
 
 export default configureStore({
-  reducer: {
-    counter: counterReducer,
-  },
+    reducer: {
+        grid: gridReducer,
+        controls: controlsReducer
+    },
 });
